@@ -1,0 +1,16 @@
+    source $HOME/.config/nvim/config/config.vim
+    source $HOME/.config/nvim/config/keys.vim
+    source $HOME/.config/nvim/vim-plug/pluggins.vim
+    source $HOME/.config/nvim/plug-config/coc-vim.vim
+    source $HOME/.config/nvim/plug-config/nerdtree.vim
+    source $HOME/.config/nvim/plug-config/explorer.vim
+    source $HOME/.config/nvim/plug-config/indentLine.vim
+    source $HOME/.config/nvim/plug-config/vim-closetag.vim
+    source $HOME/.config/nvim/plug-config/signify.vim
+    source $HOME/.config/nvim/plug-config/vim-commentary.vim
+    source $HOME/.config/nvim/plug-config/rnvimr.vim
+    source $HOME/.config/nvim/plug-config/fzf.vim
+    source $HOME/.config/nvim/plug-config/prettier.vim
+    source $HOME/.config/nvim/plug-config/airline.vim
+    source $HOME/.config/nvim/plug-config/emmet.vim
+    source $HOME/.config/nvim/themes/monokai-pro.vim
