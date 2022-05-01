@@ -42,4 +42,5 @@ call plug#begin('~/.config/nvim/plugged')
         Plug 'phanviet/vim-monokai-pro'
         "Emmet
         Plug 'mattn/emmet-vim'
+        Plug 'navarasu/onedark.nvim'
 call plug#end()
